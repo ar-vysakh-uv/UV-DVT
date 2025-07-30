@@ -1,3 +1,5 @@
+## Author - Dhananjay
+
 def xor_lut(input_data):
     # Byte 7:0 to be XORed with 0xC3
     re_xored_bytes = bytes([byte ^ 0xC3 for byte in input_data])
