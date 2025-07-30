@@ -9,3 +9,5 @@ scram_implementation ---|
 
 
 Plotting_graph_code_for_portable_chargers----Analysis of portable charger log files, plotting of Electrical parameters of charger and battery.
+
+Processes OBC CAN logs by decoding fault codes, converting analog hex data, and generating Excel summaries and visual plots for analysis.
