@@ -4,10 +4,14 @@ To collate and include all the scripts &amp; simulations used for testing &amp; 
 V2 - Test File upload
 
 dcp-chg-comm.py      ---|
-                        |---used both files to implement to verify and authenticate the charging process between the DCP and the script.
+                        |---> used both files to implement to verify and authenticate the charging process between the DCP and the script.
 scram_implementation ---|
 
 
-Plotting_graph_code_for_portable_chargers----Analysis of portable charger log files, plotting of Electrical parameters of charger and battery.
+Plotting_graph_code_for_portable_chargers----> Analysis of portable charger log files, plotting of Electrical parameters of charger and battery.
 
-Processes OBC CAN logs by decoding fault codes, converting analog hex data, and generating Excel summaries and visual plots for analysis.
+OBC_CAN_ANALYSER ----> Processes OBC CAN logs by decoding fault codes, converting analog hex data, and generating Excel summaries and visual plots for analysis.
+
+set_iot_device_id ----> Script for setting a device ID for Charging Station, to be used with an IXXAT . 
+
+
